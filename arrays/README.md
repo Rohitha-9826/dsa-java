@@ -1,1 +1,7 @@
+## Arrays
+
+This folder contains array-based problems frequently asked in technical interviews.
+
+### Problems
+1. Two Sum
 
