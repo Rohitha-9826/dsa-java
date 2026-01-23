@@ -9,7 +9,7 @@ class MoveZeroes {
             }
         }
 
-        // Fill remaining positions with zero
+        // Fill remaining positions with zero 
         while (index < nums.length) {
             nums[index++] = 0;
         }
