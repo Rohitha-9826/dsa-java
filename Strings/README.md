@@ -4,3 +4,4 @@ This folder contains string-based problems commonly asked in technical interview
 
 ### Problems
 1. Reverse a String
+2. PalindromeString
